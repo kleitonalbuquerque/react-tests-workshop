@@ -1,16 +1,32 @@
-# React + Vite
+# 🧪 Workshop — Testes Unitários em React + Vite com Jest + React Testing Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi criado para fins **didáticos**, como parte de um **workshop prático** sobre testes unitários em React, utilizando **Vite**, **Jest** e **React Testing Library**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Objetivo do Workshop
 
-## React Compiler
+- Entender o que são **testes unitários**.
+- Aprender a configurar o **Jest** e o **React Testing Library** em um projeto React com **Vite**.
+- Escrever e executar testes em **componentes reais**.
+- Visualizar **cobertura de testes** e boas práticas.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🏗️ Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React 18 + Vite**
+- 🧪 **Jest** — Framework de testes
+- 🧰 **React Testing Library** — Testes baseados no comportamento do usuário
+- 🧠 **Babel** — Transpilação para Jest entender JSX
+
+---
+
+## 🚀 Como rodar o projeto
+
+### 1️⃣ Clonar o repositório
+
+```bash
+git clone https://github.com/seu-usuario/react-tests-workshop.git
+cd react-tests-workshop
+```

@@ -45,7 +45,7 @@ npm run dev
 
 ### Acesse no navegador:
 
-👉 (http://localhost:5173)[http://localhost:5173]
+👉 [http://localhost:5173](http://localhost:5173)
 
 ## 🧪 Executando os testes
 
